@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691079397849",
+    "firebase_url": "https://cashmanager-df6fb.firebaseio.com",
+    "project_id": "cashmanager-df6fb",
+    "storage_bucket": "cashmanager-df6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691079397849:android:47c8d327f2adcf2d",
+        "android_client_info": {
+          "package_name": "com.example.agungnugroho.cashmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691079397849-9r0gnpodm94aeftlho9qhi39kc40rgau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agungnugroho.cashmanager",
+            "certificate_hash": "9ed317656db264c54e77b77c3c151ed3bb28e142"
+          }
+        },
+        {
+          "client_id": "691079397849-kcdqmtetkapkc3sjblqdcldtpacg9dao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUk3idjWavTi9ARhMAKDf_duRPC0ng15Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691079397849-kcdqmtetkapkc3sjblqdcldtpacg9dao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
